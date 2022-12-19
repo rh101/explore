@@ -54,6 +54,7 @@ items:
  - cerberusxdev/cerberus
  - ganelson/inform
  - hexops/mach
+ - axmolengine/axmol
 display_name: Game Engines
 created_by: leereilly
 ---
